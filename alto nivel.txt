@@ -1,1 +1,1 @@
-no hace falta preocuparse por cuestiones de bajo nivel, como el manejo de la memoria del programa.
+no preocuparse por cuestiones de bajo nivel, como el manejo de la memoria del programa.
