@@ -1,0 +1,1 @@
+interpretado no compilado, tener claras las diferencias entre compilado y interprteado
